@@ -23,9 +23,9 @@ twitter: ''
 email: pramodkumar.chinthala@gmail.com
 phone: +49-17645738866
 address:
-  street: 450 Serra Mall
+  # street: 450 Serra Mall
   city: Kaiserslautern
-  region: Rheinland pfalz
+  region: Rheinland-Pfalz
   postcode: '67663'
   country: Germany
   country_code: DE
