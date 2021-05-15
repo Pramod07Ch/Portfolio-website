@@ -30,10 +30,10 @@ education:
   courses:
   - course: Msc in Commercial Vehicle Technology
     institution: Technische Universität Kaiserslautern, Germany
-    year: 2012
+    # year: 2012
   - course: BTech in Mechanical Engineering
     institution: GITAM University, Hyderabad, India
-    year: 2009
+    # year: 2009
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -49,6 +49,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/pramod-kumar-chinthala-89619782/
+- icon: medium
+  icon_pack: fab
+  link: https://medium.com/@pramodch
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -64,8 +67,13 @@ email: "pramodkumar.chinthala@gmail.com"
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a Mechanical engineering graduate and experienced Industrial engineer, currently doing my Master's in Commerical vehicle technology with a special focus on applications of Machine learning in the field of ADAS and Autonomous Driving.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+At Present, working on my master thesis with a focus on the application of Graph neural networks in decision making for autonomous vehicles. 
+
+In addition, I am working with Rheinmetall as a working student in the Assistance and connectivity department. Also, as a Reinforcement learning research assistant for a topic on Factory layout optimization in FBK, TU Kaiserslautern.
+
+I am proficient in Machine Learning, Data Analysis and Visualization. I am passionate about research in the areas of ADAS, Autonomous driving and Data-driven development. 
+
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
