@@ -11,7 +11,7 @@ role: Master Student
 # Organizations/Affiliations to show in About widget
 organizations:
 - name:Technische Universität Kaiserslautern
-- url: https://www.uni-kl.de/
+  url: https://www.uni-kl.de/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include ADAS, Autonomous driving.
@@ -73,12 +73,12 @@ email: "pramodkumar.chinthala@gmail.com"
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-
 I am a Mechanical engineering graduate and experienced Industrial engineer, currently doing my Master's in Commerical vehicle technology with a special focus on applications of Machine learning in the field of ADAS and Autonomous driving.
 
-At Present, working on my master thesis with a focus on the application of Graph neural networks in decision making for autonomous vehicles. 
+At Present, working on my master thesis with a focus on the application of Graph neural networks in decision making for autonomous vehicles.
 
 In addition, I am working with Rheinmetall as a working student in the Assistance and connectivity department and as a Reinforcement learning research assistant for a topic on Factory layout optimization in FBK, TU Kaiserslautern.
 
-I am proficient in Machine Learning, Data Analysis and Visualization. I am passionate about research in the areas of ADAS, Autonomous driving and Data-driven development. 
-# {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+I am proficient in Machine Learning, Data Analysis and Visualization. I am passionate about research in the areas of ADAS, Autonomous driving and Data-driven development.
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
