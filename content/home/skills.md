@@ -9,8 +9,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Skills
-subtitle:
+# title: Skills
+# subtitle:
 
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
