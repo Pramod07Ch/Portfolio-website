@@ -1,26 +1,29 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Pramod kumar Chinthala
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Master Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Technische Universität
+  url: https://www.uni-kl.de/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include ADAS, Autonomus driving and Data science.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Advance Driver Assistance systems (ADAS)
+- Autonomous Driving
+- Data Science
+- Machine Learning
+- Deep Learning
+- Reinforcement Learning
 
 # Education to show in About widget
 education:
