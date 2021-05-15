@@ -11,7 +11,7 @@ role: Master Student
 # Organizations/Affiliations to show in About widget
 organizations:
 - name:Technische Universität Kaiserslautern
-  url: https://www.uni-kl.de/
+- url: https://www.uni-kl.de/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include ADAS, Autonomous driving.
