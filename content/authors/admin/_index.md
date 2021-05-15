@@ -72,6 +72,3 @@ I am a Mechanical engineering graduate and experienced Industrial engineer, curr
 Currently, working on my master thesis with a focus on the application of Graph neural networks in decision making for autonomous vehicles. In addition, I am working with Rheinmetall AG as a working student and as a Reinforcement learning research assistant in TU Kaiserslautern.
 
 I am proficient in Machine Learning, Data Analysis and Visualization. I am passionate about research in the areas of ADAS, Autonomous driving and Data-driven development. 
-
-
-# {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
