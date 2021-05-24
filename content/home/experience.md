@@ -38,7 +38,7 @@ experience:
     location: Kaiserlsutern, Germany
     date_start: '2021-02'
     date_end: ''
-    description: Factory layout optimization using Reinforcement learning
+    description: Factory layout optimization using Reinforcement learning.
 
 design:
   columns: '2'
