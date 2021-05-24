@@ -38,12 +38,7 @@ experience:
     location: Kaiserlsutern, Germany
     date_start: '2021-02-01'
     date_end: ''
-    description:  |2-
-        Responsibilities include:
-        Topic- Factory layout optimization using Reinforcement learning
-        * Environment rendering
-        * Literature review on value and Policy gradient algorithms, explainable reinforcement learning (XRL)
-        * Support in implementation of various programming related tasks
+    description:  Factory layout optimization using Reinforcement learning
 
   
 design:
