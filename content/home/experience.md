@@ -27,23 +27,10 @@ experience:
     company_url: 'https://www.rheinmetall.com/de/rheinmetall_ag/home.php'
     # company_logo: org-gc
     location: Neuss, Germany
-    date_start: '2021-04'
+    date_start: '2021-04-01'
     date_end: ''
     description: Vital signs monitoring with AI implementation
 
-  - title:Reinforcement Learning student assistant
-    company: Fachbereich Maschinenbau und Verfahrenstechnik (FBK), TU Kaiserlsutern
-    company_url: 'https://www.mv.uni-kl.de/en/fbk/'
-    #company_logo: org-x
-    location: Kaiserlsutern, Germany
-    date_start: '2021-02'
-    date_end: '2020-12-31'
-    description: Topic: Factory layout optimization using Reinforcement learning |2-
-        Responsibilities include:
-        
-        * Enviroment rendering
-        * Literature review on value and Policy gradient algorithms, explainable reinforcement learning (XRL)
-        * Support in implementation of various programming related tasks
         
 design:
   columns: '2'
