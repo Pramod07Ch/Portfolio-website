@@ -30,13 +30,7 @@ experience:
     date_start: '2021-04'
     date_end: ''
     description: Vital signs monitoring with AI implementation
-    #description: |2-
-        #Responsibilities include:
-        
-        #* Vital signs monitoring using Deep learning
-        #* Modelling
-        #* Deploying
-        
+
   - title:Reinforcement Learning student assistant
     company: Fachbereich Maschinenbau und Verfahrenstechnik (FBK), TU Kaiserlsutern
     company_url: 'https://www.mv.uni-kl.de/en/fbk/'
@@ -44,28 +38,13 @@ experience:
     location: Kaiserlsutern, Germany
     date_start: '2021-02'
     date_end: '2020-12-31'
-    description: Topic: Factory layout optimization using Reinforcement learning
-    |2-
+    description: Topic: Factory layout optimization using Reinforcement learning |2-
         Responsibilities include:
         
         * Enviroment rendering
         * Literature review on value and Policy gradient algorithms, explainable reinforcement learning (XRL)
         * Support in implementation of various programming related tasks
         
- - title: Machine learning intern
-    company: Volkswagen AG
-    company_url: 'https://www.volkswagenag.com/'
-    # company_logo: org-gc
-    location: Neuss, Germany
-    date_start: '2019-12'
-    date_end: '2020-10'
-    description: Topic: Reliability estimation for fusion of multiple onboard sensors in situation interpretation.
-    |2-
-        Responsibilities include:
-        
-        * Implementing a pipeline based on machine learning for big data, focusing on feature engineering, clustering, model training (with clustering and neural networks). 
-        * Literature review on Novelty detection
-        * Tools: ADTF, Python, Framework-Keras and TensorFlow as backend, SciKit learn, Pandas, Matplotlib, Seaborn, Plotly (Dashboard).
 design:
   columns: '2'
 ---
