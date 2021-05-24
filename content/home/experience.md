@@ -31,7 +31,7 @@ experience:
     date_end: ''
     description: Vital signs monitoring with AI implementation
  
-  - title:Reinforcement Learning student assistant
+  - title: Reinforcement Learning student assistant
     company: Fachbereich Maschinenbau und Verfahrenstechnik (FBK), TU Kaiserlsutern
     company_url: 'https://www.mv.uni-kl.de/en/fbk/'
     #company_logo: org-x
