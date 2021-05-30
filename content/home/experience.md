@@ -30,6 +30,16 @@ experience:
     date_start: '2021-04-01'
     date_end: ''
     description: Vital signs monitoring with AI implementation
+    
+  - title: Working student
+    company: Rheinmetall AG
+    company_url: 'https://www.rheinmetall.com/de/rheinmetall_ag/home.php'
+    # company_logo: org-gc
+    location: Neuss, Germany
+    date_start: '2021-04-01'
+    date_end: ''
+    description: Vital signs monitoring with AI implementation
+
 
 design:
   columns: '2'
