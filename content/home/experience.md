@@ -41,7 +41,19 @@ experience:
     description: |2-
       Topic: Factory layout optimization using Reinforcement learning.
       
-      Tasks on: Deep Q Learning, XRL, Policy gradients, Programming related tasks
+      Focus on:  Deep Q Learning, XRL, Policy gradient algorithms
+      
+   - title: Machine learning Intern 
+    company: Volkswagen AG
+    company_url: 'https://www.volkswagenag.com/'
+    # company_logo: org-gc
+    location: Kaiserlsutern, Germany
+    date_start: '2019-12-01'
+    date_end: '2020-10-31'
+    description: |2-
+      Topic: Factory layout optimization using Reinforcement learning.
+      
+   
 
 
 design:
