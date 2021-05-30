@@ -56,7 +56,7 @@ item:
   date_start: "2020-07-15"
   description: ""
   organization: Udacity
-  organization_url: https://www.udacity.com
+  organization_url: https://www.udacity.com/
   title: Data Analyst Nanodegree
   url: ""
   
