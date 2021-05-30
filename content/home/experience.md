@@ -43,7 +43,7 @@ experience:
       
       Focus on:  Deep Q Learning, XRL, Policy gradient algorithms
       
-   - title: Machine learning Intern 
+  - title: Machine learning Intern 
     company: Volkswagen AG
     company_url: 'https://www.volkswagenag.com/'
     # company_logo: org-gc
