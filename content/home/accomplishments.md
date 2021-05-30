@@ -51,7 +51,7 @@ item:
   title: DeepLearning.AI TensorFlow Developer Specialization
   url: ""
   
-- certificate_url:https://graduation.udacity.com/nd002
+- certificate_url: https://graduation.udacity.com/nd002
   date_end: ""
   date_start: "2020-07-15"
   description: ""
