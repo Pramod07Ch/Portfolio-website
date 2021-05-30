@@ -38,7 +38,8 @@ experience:
     location: Neuss, Germany
     date_start: '2021-04-01'
     date_end: ''
-    description: Vital signs monitoring with AI implementation
+    description: |2-
+      Vital signs monitoring with AI implementation
 
 
 design:
