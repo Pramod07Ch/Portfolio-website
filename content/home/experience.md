@@ -52,11 +52,25 @@ experience:
     date_end: '2020-10-31'
     description: |2-
       Topic: Reliability estimation for fusion of multiple onboard sensors in situation interpretation.
+      
             - Implementation a pipeline based on machine learning for large data, focusing on feature engineering, clustering, model training (with clustering and neural     networks). 
             - Literature review on novelty detection
             - Tools: ADTF, Python, Framework-Keras (and TensorFlow as backend), SciKit learn, Pandas, Matplotlib, Seaborn, Plotly (Dashboard).
+            - 
+  - title: Working Student 
+    company: ISUZU Motors Germany GmbH
+    company_url: 'http://www.isuzu.de/inet/en/IMGWelcome.php'
+    # company_logo: org-gc
+    location: Mainz, Germany
+    date_start: '2019-08-01'
+    date_end: '2019-11-30'
+    description: |2-
       
-   
+        - Data analytics and test support for Public Road and E-NCAP for ADAS functionality.
+        - Working with measurement devices (CANape/ CANalyzer)
+        - Creating modules in Excel VBA for validation of measurement data.
+      
+
 
 
 design:
