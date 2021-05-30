@@ -53,10 +53,10 @@ experience:
     description: |2-
       Topic: Reliability estimation for fusion of multiple onboard sensors in situation interpretation.
       
-            - Implementation a pipeline based on machine learning for large data, focusing on feature engineering, clustering, model training (with clustering and neural     networks). 
-            - Literature review on novelty detection
-            - Tools: ADTF, Python, Framework-Keras (and TensorFlow as backend), SciKit learn, Pandas, Matplotlib, Seaborn, Plotly (Dashboard).
-            - 
+        - Implementation a pipeline based on machine learning for large data, focusing on feature engineering, clustering, model training (with clustering and neural     networks). 
+        - Literature review on novelty detection
+        - Tools: ADTF, Python, Framework-Keras (and TensorFlow as backend), SciKit learn, Pandas, Matplotlib, Seaborn, Plotly (Dashboard).
+   
   - title: Working Student 
     company: ISUZU Motors Germany GmbH
     company_url: 'http://www.isuzu.de/inet/en/IMGWelcome.php'
@@ -69,6 +69,31 @@ experience:
         - Data analytics and test support for Public Road and E-NCAP for ADAS functionality.
         - Working with measurement devices (CANape/ CANalyzer)
         - Creating modules in Excel VBA for validation of measurement data.
+      
+   - title: Project Work Student 
+    company: Ikara Vision Systems UG (DFKI Spin-off)
+    company_url: 'https://ikara.ai/'
+    # company_logo: org-gc
+    location: Kaiserslautern, Germany
+    date_start: '2019-06-01'
+    date_end: '2019-11-30'
+    description: |2-
+      Topic: Ensemble model Image classification for automobile manufacturers form publicly available vehicle image datasets. 
+      
+      - Investigation of different neural network architectures with the use of transfer learning and (model) ensemble methods.
+        
+       
+  - title: Industrial Engineer Trainee 
+    company: Pennar Industries Limited (PIL) 
+    company_url: 'https://www.pennarindia.com/'
+    # company_logo: org-gc
+    location: Hyderabad, India
+    date_start: '2016-06-01'
+    date_end: '2017-08-30'
+    description: |2-
+      
+        - Data analysis of production activities using SAP/R3.
+        - Analyze and calibrate machine performance for optimal productivity.
       
 
 
