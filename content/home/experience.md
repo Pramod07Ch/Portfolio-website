@@ -47,11 +47,14 @@ experience:
     company: Volkswagen AG
     company_url: 'https://www.volkswagenag.com/'
     # company_logo: org-gc
-    location: Kaiserlsutern, Germany
+    location: Wolfsburg, Germany
     date_start: '2019-12-01'
     date_end: '2020-10-31'
     description: |2-
-      Topic: Factory layout optimization using Reinforcement learning.
+      Topic: Reliability estimation for fusion of multiple onboard sensors in situation interpretation.
+            - Implementation a pipeline based on machine learning for large data, focusing on feature engineering, clustering, model training (with clustering and neural     networks). 
+            - Literature review on novelty detection
+            - Tools: ADTF, Python, Framework-Keras (and TensorFlow as backend), SciKit learn, Pandas, Matplotlib, Seaborn, Plotly (Dashboard).
       
    
 
