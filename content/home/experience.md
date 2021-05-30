@@ -70,7 +70,7 @@ experience:
         - Working with measurement devices (CANape/ CANalyzer)
         - Creating modules in Excel VBA for validation of measurement data.
       
-   - title: Project Work Student 
+  - title: Project Work Student 
     company: Ikara Vision Systems UG (DFKI Spin-off)
     company_url: 'https://ikara.ai/'
     # company_logo: org-gc
@@ -80,7 +80,7 @@ experience:
     description: |2-
       Topic: Ensemble model Image classification for automobile manufacturers form publicly available vehicle image datasets. 
       
-      - Investigation of different neural network architectures with the use of transfer learning and (model) ensemble methods.
+         - Investigation of different neural network architectures with the use of transfer learning and (model) ensemble methods.
         
        
   - title: Industrial Engineer Trainee 
