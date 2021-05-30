@@ -29,17 +29,19 @@ experience:
     location: Neuss, Germany
     date_start: '2021-04-01'
     date_end: ''
-    description: Vital signs monitoring with AI implementation
+    description: Vital signs monitoring using Radar with AI implementation
     
-  - title: Working student
-    company: Rheinmetall AG
-    company_url: 'https://www.rheinmetall.com/de/rheinmetall_ag/home.php'
+  - title: Research Student
+    company: Lehrstuhl für Fertigungstechnik und Betriebsorganisation (FBK), TU Kaiserslautern
+    company_url: 'https://www.mv.uni-kl.de/en/fbk/'
     # company_logo: org-gc
-    location: Neuss, Germany
-    date_start: '2021-04-01'
+    location: Kaiserlsutern, Germany
+    date_start: '2021-03-01'
     date_end: ''
     description: |2-
-      Vital signs monitoring with AI implementation
+      Topic: Factory layout optimization using Reinforcement learning.
+      
+      Tasks on: Deep Q Learning, XRL, Policy gradients, Programming related tasks
 
 
 design:
