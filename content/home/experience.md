@@ -33,7 +33,7 @@ experience:
         - Working on radar-based monitoring of driver vital signs such as Heart rate, breathing rate with AI implementation.
         - Tools: Matlab, Simulink, Python, Tensorflow 2.0, Linux
     
-  - title: Research Student
+  - title: Student research assistant
     company: Lehrstuhl für Fertigungstechnik und Betriebsorganisation (FBK), TU Kaiserslautern
     company_url: 'https://www.mv.uni-kl.de/en/fbk/'
     # company_logo: org-gc
@@ -43,7 +43,7 @@ experience:
     description: |2-
       Topic: Factory layout optimization using Reinforcement learning.
       
-        - Working with a team on the implementation of deep Q learning and policy gradient algorithms ( vanilla policy gradient, soft actor-critic) on discrete and continuous cases.
+        - Working with a team on the implementation of deep Q learning and policy gradient algorithms ( vanilla policy gradient, soft actor-critic ) on discrete and continuous cases.
         - Tasks related to hyper-parameter optimization, training agents on high computing GPU clusters.
         - Tools: Python, TensorFlow 2.0, OpenCV, GitLab.
       
