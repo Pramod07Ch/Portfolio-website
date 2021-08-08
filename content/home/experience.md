@@ -43,7 +43,9 @@ experience:
     description: |2-
       Topic: Factory layout optimization using Reinforcement learning.
       
-      Focus on:  Deep Q Learning, XRL, Policy gradient algorithms
+        - Working with a team on the implementation of deep Q learning and policy gradient algorithms ( vanilla policy gradient, soft actor-critic) on discrete and continuous cases.
+        - Tasks related to hyper-parameter optimization, training agents on high computing GPU clusters.
+        - Tools: Python, TensorFlow 2.0, OpenCV, GitLab.
       
   - title: Machine learning Intern 
     company: Volkswagen AG
