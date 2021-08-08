@@ -67,8 +67,8 @@ email: "pramodkumar.chinthala@gmail.com"
 highlight_name: false
 ---
 
-I am a Mechanical engineering graduate and experienced Industrial engineer, currently doing my Master's in Commerical vehicle technology with a special focus on applications of Machine learning in the field of ADAS and Autonomous Driving.
+I am a Mechanical engineering graduate and experienced Industrial engineer, currently doing my Master's in Commerical vehicle technology with a focus on Advance driver assistance systems,  Autonomous Driving and Machine learning.
 
-Currently, working on my master thesis with a focus on the application of Graph neural networks in decision making for autonomous vehicles. In addition, I am working with Rheinmetall AG as a working student and as a Reinforcement learning research assistant in TU Kaiserslautern.
+Currently, working on my master thesis with a focus on the application of Graph neural networks in multi-object detection and tracking for autonomous vehicles. In addition, I am working with Rheinmetall AG as a working student and as a Reinforcement learning research assistant in TU Kaiserslautern.
 
 I am proficient in Machine Learning, Data Analysis and Visualization. I am passionate about research in the areas of ADAS, Autonomous driving and Data-driven development. 
