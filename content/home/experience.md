@@ -28,10 +28,10 @@ experience:
     # company_logo: org-gc
     location: Neuss, Germany
     date_start: '2021-04-01'
-    date_end: ''
+    date_end: '2021-12-31'
     description: |2-
-        - Working on radar-based monitoring of driver vital signs such as Heart rate, breathing rate with AI implementation.
-        - Tools: Matlab, Simulink, Python, Tensorflow 2.0, Linux
+        - Worked on radar-based extraction of driver vital signs such as Heart rate, breathing rate with AI implementation.
+        - Tools: Python 3, Tensorflow 2, Matlab, Simulink, Mlflow, Linux
     
   - title: Student research assistant
     company: Lehrstuhl für Fertigungstechnik und Betriebsorganisation (FBK), TU Kaiserslautern
@@ -39,13 +39,13 @@ experience:
     # company_logo: org-gc
     location: Kaiserlsutern, Germany
     date_start: '2021-03-01'
-    date_end: ''
+    date_end: '2022-02-17'
     description: |2-
       Topic: Factory layout optimization using Reinforcement learning.
       
-        - Working with a team on the implementation of deep Q learning and policy gradient algorithms ( vanilla policy gradient, soft actor-critic ) on discrete and continuous cases.
-        - Tasks related to hyper-parameter optimization, training agents on high computing GPU clusters.
-        - Tools: Python, TensorFlow 2.0, OpenCV, GitLab.
+        - Worked with a team on the implementation of deep Q learning and policy gradient algorithms ( vanilla policy gradient, soft actor-critic ) on discrete and continuous cases.
+        - Developed the automated hyper-parameter optimization with Particle swarm optimization, training agents on high computing GPU clusters.
+        - Tools: Python, TensorFlow 2.0, OpenCV, GitLab, TensorBoard.
       
   - title: Machine learning Intern 
     company: Volkswagen AG
