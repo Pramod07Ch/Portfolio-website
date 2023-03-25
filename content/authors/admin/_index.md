@@ -19,8 +19,9 @@ bio: My research interests include ADAS, Autonomus driving and Data science.
 # Interests to show in About widget
 interests:
 - Advance Driver Assistance systems (ADAS)
-- Autonomous Driving
+- DevOps
 - Data Science
+- Data Engineering
 - Machine Learning
 - Deep Learning
 - Reinforcement Learning
@@ -67,8 +68,6 @@ email: "pramodkumar.chinthala@gmail.com"
 highlight_name: false
 ---
 
-I am a Mechanical engineering graduate and experienced Industrial engineer, currently doing my Master's in Commerical vehicle technology with a focus on Advance driver assistance systems,  Autonomous Driving and Machine learning.
+I am a Master's graduate with a strong focus on Autonomous driving, machine learning, and data science. I am alos a mechanical engineering undergraduate with a focus on industrial engineering. Currently working with data-driven development projects.
 
-Currently, working on my master thesis with a focus on the application of Graph neural networks in multi-object detection and tracking for autonomous vehicles. In addition, I am working with Rheinmetall AG as a working student and as a Reinforcement learning research assistant in TU Kaiserslautern.
-
-I am proficient in Machine Learning, Data Analysis and Visualization. I am passionate about research in the areas of ADAS, Autonomous driving and Data-driven development. 
+I have profound knwoledge in implementation of Machine Learning, Data Analytics and Data Visualization. I am passionate about working on data-driven developement, especially in the automotive and manufacturing industries.
